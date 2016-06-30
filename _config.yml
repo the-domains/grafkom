@@ -1,0 +1,14 @@
+layout_spectrum: 0.6148568680509925
+typography_spectrum: 0.9666210296563804
+color:
+  brandStrength: 0.21542328572832048
+  lightness: 0.07804341893643141
+  saturation: 0.0023333881981670856
+  rhythmicContrast: 0.8390989864710718
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: grafkom
